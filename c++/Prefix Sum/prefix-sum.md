@@ -1,0 +1,1 @@
+The idea behind this approach is that we maintain a running sum. Either the running sum matches our target condition or we evaluate a condition that implies that some numbers in between match our target condition
